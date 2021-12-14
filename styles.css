@@ -1,0 +1,38 @@
+h1{
+  font-size:80px;
+  color: #73C6B6;
+  background-color: lightgray;
+  margin: 0;
+  text-align: center;
+  }
+  p{
+  font-size: 20px;
+  color: darkolivegreen;
+  background-color: lightgoldenrodyellow;
+  margin: 0 auto;
+  text-align: center;
+  padding: 0 20px;
+  }
+  .big{
+    font-size: 25px;
+    color: navy;
+  }
+  h1 span {
+    color: navy;
+  }
+  body img{
+    padding-top: 30px;
+    padding-bottom: 30px;
+    border-radius: 150px;
+    width: 300px;
+  }
+  main {
+    max-width: 800px;
+  }
+  body img{
+    max-width: 100%;
+  }
+  body {
+    margin: 0;
+    font-family: 'Roboto Mono', monospace;
+  }
